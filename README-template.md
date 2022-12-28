@@ -14,7 +14,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Solution URL here]((https://github.com/Hoanglong9090/QR-Code))
+- Solution URL: [Solution URL here](https://github.com/Hoanglong9090/QR-Code)
 - Live Site URL: [Live site URL here](https://hoanglong9090.github.io/QR-Code/)
 
 ## My process
@@ -44,6 +44,6 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Hoanglong9090)
+- Frontend Mentor - [HoangLong](https://www.frontendmentor.io/profile/Hoanglong9090)
 
 
