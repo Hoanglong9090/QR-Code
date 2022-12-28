@@ -14,8 +14,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/Hoanglong9090/Product-preview-card)
-- Live Site URL: [Live site URL here](https://hoanglong9090.github.io/Product-preview-card/)
+- Solution URL: [Solution URL here](https://github.com/Hoanglong9090/QR-Code)
+- Live Site URL: [Live site URL here](https://hoanglong9090.github.io/QR-Code/)
 
 ## My process
 
